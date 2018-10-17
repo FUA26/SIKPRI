@@ -1,0 +1,12 @@
+INSERT INTO `riwayatsimpanan` VALUES ('',1,'2016-01-01','',150000,200000,30000,'');
+INSERT INTO `riwayatsimpanan` VALUES ('',1,'2016-02-01','',150000,'',30000,'');
+INSERT INTO `riwayatsimpanan` VALUES ('',1,'2016-03-01','',150000,'',30000,'');
+INSERT INTO `riwayatsimpanan` VALUES ('',1,'2016-04-01','',150000,'',30000,'');
+INSERT INTO `riwayatsimpanan` VALUES ('',1,'2016-05-01','',150000,'',30000,'');
+INSERT INTO `riwayatsimpanan` VALUES ('',1,'2016-06-01','',150000,'',30000,'');
+INSERT INTO `riwayatsimpanan` VALUES ('',1,'2016-07-01','',150000,'',30000,'');
+INSERT INTO `riwayatsimpanan` VALUES ('',1,'2016-08-01','',150000,'',30000,'');
+INSERT INTO `riwayatsimpanan` VALUES ('',1,'2016-09-01','',150000,'',30000,'');
+INSERT INTO `riwayatsimpanan` VALUES ('',1,'2016-10-01','',150000,'',30000,'');
+INSERT INTO `riwayatsimpanan` VALUES ('',1,'2016-11-01','',150000,'',30000,'');
+INSERT INTO `riwayatsimpanan` VALUES ('',1,'2016-12-01','',150000,'',30000,'');

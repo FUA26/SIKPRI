@@ -1,0 +1,147 @@
+.peringatan{
+	color: red;
+	margin: 10px 0;
+}
+.bg-olive > a{
+	color: white;
+}
+.sidebar {
+	font-size: 18px;
+}
+.navbar-nav > .nama{
+	margin: 15px;
+}
+
+.navbar-nav > .nama > p{
+	margin: 0;
+	color: white;
+}
+.home > h1{
+	margin: 0;
+	text-align: center;
+}
+.home > h4{
+	
+	text-align: center;
+}
+.home > h2{
+	margin: 0;
+	text-align: center;
+}
+.home > p{
+	text-indent: 50px;
+	text-align: justify;
+	margin: 0 10%;
+}
+.statusUpdate{
+	width: 90%;
+	margin: 10px 5%;
+	text-align: right;
+
+}
+.tableDetail td {
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+.dataTable{
+	width: 90%;
+	margin: 0 5%;
+	border-collapse: collapse;
+
+}
+.dataTable th {
+	padding-top: 12px;
+	padding-bottom: 12px;
+	text-align: left;
+	background-color: #4CAF50;
+	color: white;
+}
+.dataAdmin th {
+	padding-top: 12px;
+	padding-bottom: 12px;
+	text-align: left;
+	background-color: #222d32;
+	color: white;
+}
+.table-bordered > tbody > tr > td{
+	border: 1px solid #dad0d0
+}
+.riwayat{
+	margin: 20px 5%;
+	text-decoration: none;
+	color: white;
+}
+
+body {
+	background-color: #f8f8f8;
+}
+#wrapper {
+	width: 100%;
+}
+#page-wrapper {
+	padding: 0 15px;
+	min-height: 568px;
+	background-color: white;
+}
+
+/*Halaman Login*/
+#login-page{
+	background-color: #00a65a;
+}
+.login-panel{
+	margin-top:150px;
+}
+.login-judul{
+	text-align: center;
+}
+.btn-login{
+	margin-right:10%;
+}
+/*Halaman login admin*/
+#login-admin{
+	background-color: #111;
+}
+
+
+.warp-isi{
+	margin: 20px 5%;
+}
+.warp-isi > p{
+	margin-bottom: 20px;
+}
+.form-horizontal .control-label{
+	text-align: left;
+}
+.table-responsive{
+	overflow-x: visible;
+}
+
+.table-detail > tbody > tr > td{
+	padding: 5px;
+}
+.dataRp{
+	text-align: right;
+}
+@media (min-width: 768px) {
+	.table-responsive{
+		overflow-x: hidden;
+	}
+}
+@media (max-width: 768px) {
+	.home > h1{
+		margin: 0;
+		text-align: center;
+		font-size: 20;
+	}
+	.home > h4{
+		font-size: 20;
+		text-align: center;
+	}
+	.home > h2{
+		margin: 0;
+		text-align: center;
+		font-size: 20;
+	}
+}
+}
+
